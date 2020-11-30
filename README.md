@@ -1,2 +1,2 @@
 # programs
-stores all of the assignments for this semester
+stores all of the assignments for CS 371
