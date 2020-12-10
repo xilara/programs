@@ -1,2 +1,2 @@
 # programs
-stores all of the assignments for CS 371
+stores all of the assignments for CS 371: Software Development
